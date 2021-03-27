@@ -1,2 +1,2 @@
-# therandomgameplayer.github.io
+# randomgameplayer.github.io
 Website
